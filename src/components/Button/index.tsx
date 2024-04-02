@@ -1,4 +1,4 @@
 export const Button = () => {
-  return <button>Button</button>;
+  return <button className="text-blue-500">Button</button>;
 };
 

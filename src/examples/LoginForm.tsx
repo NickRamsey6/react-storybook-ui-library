@@ -53,7 +53,7 @@ export const LoginForm = () => {
             placeholder={"Password"} 
         />
 
-        <Button type="submit" variant={'solid'} className="mb-10">Login</Button>
+        <Button type="submit" variant={'solid'} className="mt-10">Login</Button>
       </Stack>
     </Box>
   );
